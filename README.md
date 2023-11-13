@@ -1,3 +1,12 @@
+# About this Project
+
+This is a basic project built to learn the basics of React. I applied the basic concepts of React that I learned during the previous section by building [this project](https://github.com/Karthikeyan-1909/LearningReactApp-1). The concepts include setting up a React project using Create React App, converting an HTML CSS JS project into a React project, importing different files and components, creating components, and sending data to a component via props, etc. This project contains a webpage called BackRoads.
+
+I built this project by learning React from @john-smilga in his Udemy course [React 18 Tutorial and Projects Course (2023)](https://www.udemy.com/course/react-tutorial-and-projects-course/)
+
+# Getting Started with Create React App
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
